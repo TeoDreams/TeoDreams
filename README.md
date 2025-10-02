@@ -5,7 +5,7 @@ My name is Matteo Fumagalli, a young man passionate about technology. I study at
 Passionate about technology since childhood, I’ve developed solid skills through both personal exploration and structured studies.  
 I am motivated, determined, and driven by a genuine passion for technology, always eager to grow, face new challenges, and contribute to innovative projects.
 
----
+------------
 
 ### 🔧 What I’m working on
 - 🚀 Building and managing a **Proxmox server**  
@@ -13,7 +13,7 @@ I am motivated, determined, and driven by a genuine passion for technology, alwa
 - 🌐 Developing and experimenting with **web applications and websites using React**  
 - 🐳 Using **Docker** for application development and management  
 
----
+------------
 
 ### 📫 How to reach me
 - 👤[LinkedIn](https://www.linkedin.com/in/matteofumagalli2005)
