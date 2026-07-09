@@ -15,6 +15,3 @@ My core stack is PHP and Symfony, but what I care about is backend engineering i
 
 ### Tech
 `PHP` `Symfony` `Java` `Spring Boot` `REST APIs` `MySQL` `Doctrine ORM` `Docker` `GitLab CI` `Python` `Linux`
-
-### Reach me
-- LinkedIn: https://linkedin.com/in/matteofumagalli2005
