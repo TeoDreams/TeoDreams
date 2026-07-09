@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Matteo</h1>
+## Hi, I'm Matteo 👋
 
-### 👨‍💻 About Me
-My name is Matteo Fumagalli, a young man passionate about technology. I study at ITS Angelo Rizzoli in the Software Specialization program.  
-Passionate about technology since childhood, I’ve developed solid skills through both personal exploration and structured studies.  
-I am motivated, determined, and driven by a genuine passion for technology, always eager to grow, face new challenges, and contribute to innovative projects.
+Backend developer focused on REST API design, data access, and access control: the parts of a system people rely on without ever seeing them.
 
-------------
+### About me
+I build backend services in PHP/Symfony. Most of my hands-on experience comes from a 5-month internship at Devoteam (Lisbon), working on enterprise cybersecurity platforms under ISO 27001, ISO 27701 and CREST standards: production REST APIs, role-based access control, and a large, test-covered codebase with code review and CI/CD.
 
-### 🔧 What I’m working on
-- 🚀 Building and managing a **Proxmox server**  
-- 🤖 Experimenting with **AI fine-tuning**  
-- 🌐 Developing and experimenting with **web applications and websites using React**  
-- 🐳 Using **Docker** for application development and management  
+My core stack is PHP and Symfony, but what I care about is backend engineering itself: clean REST API design, testing, and secure access control, skills that carry across languages. I also work with Java and Spring Boot.
 
-------------
+### What I'm working on
+- 🧩 Backend REST APIs with PHP / Symfony
+- 🖥️ A self-hosted home lab on Proxmox (Docker, networking, WireGuard)
+- 🐍 Python tooling and MCP server experiments for LLM integrations
+- 🐳 Docker-based development environments
 
-### 📫 How to reach me
-- 👤[LinkedIn](https://www.linkedin.com/in/matteofumagalli2005)
-- 📧 matteo.fumagalli.2005@gmail.com
+### Tech
+`PHP` `Symfony` `Java` `Spring Boot` `REST APIs` `MySQL` `Doctrine ORM` `Docker` `GitLab CI` `Python` `Linux`
+
+### Reach me
+- LinkedIn: https://linkedin.com/in/matteofumagalli2005
