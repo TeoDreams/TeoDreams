@@ -1,15 +1,30 @@
 ## Hi, I'm Matteo 👋
 
-Backend developer focused on REST API design, data access, and access control: the parts of a system people rely on without ever seeing them.
+Security Engineer with a backend background. I'm interested in the parts of a system
+people rely on without ever seeing them, and in keeping them safe.
 
 ### About me
-My core stack is PHP and Symfony, but what I care about is backend engineering itself: clean REST API design, testing, and secure access control, skills that carry across languages.
+
+I started in backend development, building REST APIs in PHP/Symfony for enterprise
+cybersecurity platforms aligned with ISO 27001 and ISO 27701. That's where I learned
+that security works best when it's part of the design, not something added at the end.
+
+Today I work in IT security, on both the technical and the process side.
+
+### Security interests
+
+- 🔐 **Access control**: role-based authorization, least privilege, secure API design
+- ☁️ **Cloud security**: understanding findings, separating real risk from noise
+- 🛠️ **Security in CI/CD**: static analysis, dependency scanning, secret detection
+- 📋 **Governance and compliance**: turning policies and requirements into concrete controls
+- 🤖 **LLM integrations**: what changes when an AI tool can read your data
 
 ### What I'm working on
-- 🧩 Backend REST APIs with PHP / Symfony
+
 - 🖥️ A self-hosted home lab on Proxmox (Docker, networking, WireGuard)
-- 🐍 Python tooling and MCP server experiments for LLM integrations
+- 🐍 Python tooling and MCP server experiments, built read-only and least-privilege by default
 - 🐳 Docker-based development environments
 
 ### Tech
-`PHP` `Symfony` `Java` `Spring Boot` `REST APIs` `MySQL` `Doctrine ORM` `Docker` `GitLab CI` `Python` `Linux`
+
+`PHP` `Symfony` `Python` `Java` `Spring Boot` `REST APIs` `MySQL` `Doctrine ORM` `Docker` `GitLab CI` `Linux`
